@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <!-- Github stats-->
 
-[![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant1810)](https://github.com/prashant1810/github-readme-stats)
+[![Prashant Biradar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant1810)](https://github.com/prashant1810/github-readme-stats)
