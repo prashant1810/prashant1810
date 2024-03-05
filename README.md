@@ -1,4 +1,8 @@
-### Hi there 👋
+<!--1. Bio and stats -->
+
+### Hi, I'm Prashant Biradar 👋
+
+
 
 <!--
 **prashant1810/prashant1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Github stats-->
+
+[![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant1810)](https://github.com/prashant1810/github-readme-stats)
